@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a multilingual web application to help students.<br>👯 I’m looking to collaborate on innovative educational tech projects that enhance<br> student learning experiences and improve accessibility across different languages.<br>🤝 I’m looking for help with integrating effective AI algorithms that<br> can support complex question generation and difficulty scaling.<br>🌱 I’m currently learning how to  merging AI and education to create learning tools <br>that make studying easier and more engaging!<br>💬 Ask me about my experiences with developing web apps
+🔭 I’m currently working on building a  web application to help students learning experiences .<br>🤝 I’m looking for help with integrating effective AI algorithms that<br> can solve complex problems . <br>🌱 I’m currently learning how to  merging AI and real world app  to create  tools <br>that make life easier and more engaging!<br>💬 Ask me about my experiences with developing web apps
 
 
 ## 🌐 Socials:
