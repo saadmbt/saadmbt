@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on building a  web application to help students learning experiences .<br>🤝 I’m looking for help with integrating effective AI algorithms that<br> can solve complex problems . <br>🌱 I’m currently learning how to  merging AI and real world app  to create  tools <br>that make life easier and more engaging!<br>💬 Ask me about my experiences with developing web apps
+🌟 I'm building a web application to enhance student learning experiences. 
+🤝 I'm seeking help integrating AI algorithms that can solve complex problems. 
+🌱 I'm learning to merge AI with real-world applications to create engaging tools. 
+💬 Ask me about my web development experiences.
 
 
 ## 🌐 Socials:
